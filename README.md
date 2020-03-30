@@ -40,6 +40,9 @@ Related semantic datasets:
 
 https://blog.csdn.net/bevison/article/details/78123403
 
+## 数据转换
+Semantic_segmentation_lfw/data_process.py
+
 ## Result:
 python ./imgs/ 	vis_result.py
 
