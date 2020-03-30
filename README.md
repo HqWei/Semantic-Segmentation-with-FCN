@@ -34,6 +34,7 @@ http://www.msri.org/people/members/eranb/
 Labeled Face in the Wild:
 
 http://vis-www.cs.umass.edu/lfw/
+http://vis-www.cs.umass.edu/lfw/part_labels/
 
 Related semantic datasets:
 
