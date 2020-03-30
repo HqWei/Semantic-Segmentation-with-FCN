@@ -40,4 +40,7 @@ Related semantic datasets:
 
 https://blog.csdn.net/bevison/article/details/78123403
 
-## Usage
+## Result:
+python ./imgs/ 	vis_result.py
+
+![image](https://github.com/HqWei/Semantic-Segmentation-with-FCN/blob/master/imgs/result.jpg)
